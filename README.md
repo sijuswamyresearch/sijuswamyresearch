@@ -14,7 +14,7 @@ My research addresses the intersection of mathematical modeling and deep learnin
 **Core Research Areas:**
 * **Custom Deep Learning Architectures:** Developing mathematical formulations for specialized network components, including the Spatially-Adaptive Gated Activation (SAGA) and the Augmented Differential L1 (ADL1) loss function. 
 * **Clinical Imaging Optimization:** Formulating physics-informed models and carefully evaluating architectural choices, such as the deployment of SiLU and ELU activation units, to enhance interpretability and accuracy in clinical contexts. 
-* **Collaborative Medical AI:** Partnering directly with clinical experts (including radiologists from the Amrita Institute of Medical Sciences) to ensure models meet rigorous diagnostic standards.
+* **Collaborative Medical AI:** Partnering directly with clinical experts to ensure models meet rigorous diagnostic standards.
 
 **Recent Publications:**
 * **EffNet-SVM:** A Hybrid Model for Diabetic Retinopathy Classification Using Retinal Fundus Images [DOI: 10.1109/ACCESS.2025.3566073](https://doi.org/10.1109/ACCESS.2025.3566073)
