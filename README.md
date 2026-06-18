@@ -21,6 +21,9 @@ My research addresses the intersection of mathematical modeling and deep learnin
 * **X-GAN:** Physics-informed generative model for edge-preserved chest X-ray image denoising [DOI: 10.1016/j.cmpbup.2026.100247](https://doi.org/10.1016/j.cmpbup.2026.100247)
 * An interpretable deep learning method for medical image deblurring and restoration [DOI: 10.1016/j.health.2026.100468](https://doi.org/10.1016/j.health.2026.100468)
 
+**Software Release**
+- `saga-activation`: A Spatially-Adaptive Gated Activation (SAGA) with Fused Triton Optimization. [documentation](https://saga-activation.readthedocs.io/en/latest/)
+  
 ---
 
 ## 👨‍🏫 Training & Teaching Contributions
