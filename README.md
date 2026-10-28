@@ -17,6 +17,7 @@ My research addresses the intersection of mathematical modeling and deep learnin
 * **Collaborative Medical AI:** Partnering directly with clinical experts (including radiologists from the Amrita Institute of Medical Sciences) to ensure models meet rigorous diagnostic standards.
 
 **Recent Publications:**
+* An empirical benchmark of activation functions in medical image restoration networks [DOI:10.1007/s44163-026-02265-1](https://doi.org/10.1007/s44163-026-02265-1)
 * An interpretable deep learning method for medical image deblurring and restoration [DOI: 10.1016/j.health.2026.100468](https://doi.org/10.1016/j.health.2026.100468)
 * **X-GAN:** Physics-informed generative model for edge-preserved chest X-ray image denoising [DOI: 10.1016/j.cmpbup.2026.100247](https://doi.org/10.1016/j.cmpbup.2026.100247)
 * **EffNet-SVM:** A Hybrid Model for Diabetic Retinopathy Classification Using Retinal Fundus Images [DOI: 10.1109/ACCESS.2025.3566073](https://doi.org/10.1109/ACCESS.2025.3566073)
