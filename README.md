@@ -9,7 +9,7 @@ In addition to my academic roles, I serve as a Data Analytics consultant for eng
 ---
 
 ## 🔬 Research Interests & Works
-My research addresses the intersection of mathematical modeling and deep learning, with a specialized focus on medical image restoration. I work extensively on deblurring and reconstruction techniques for clinical imaging modalities (CT, MRI, X-ray) to bridge computational theory and practical clinical requirements. 
+My research addresses the intersection of mathematical modeling and deep learning, with a specialized focus on medical image restoration. I work on deblurring and reconstruction techniques for clinical imaging modalities (CT, MRI, X-ray) to bridge computational theory and practical clinical requirements. 
 
 **Core Research Areas:**
 * **Custom Deep Learning Architectures:** Developing mathematical formulations for specialized network components, including the Spatially-Adaptive Gated Activation (SAGA) and the Augmented Differential L1 (ADL1) loss function. 
